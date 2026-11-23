@@ -2,6 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,35:2563eb,70:7c3aed,100:ec4899&height=260&section=header&text=Raunak%20Kumar&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Inspired%20by%20Challenges.%20Motivated%20by%20Solutions.&descSize=20&descAlignY=62" alt="Raunak Kumar banner"/>
 <img width="1254" height="1254" alt="dekisugi" src="https://github.com/user-attachments/assets/8b757030-eb11-46e5-b333-112b60c61300" />
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;Aspiring+Ethical+Hacker+%7C+Kali+Linux+(VirtualBox);Open+Source+Contributor;Future+AI+Engineer+%26+Entrepreneur" alt="Typing animation"/>
