@@ -212,11 +212,7 @@ Cybersecurity           ██████░░░░░░░░░░░   Ka
 
 </div>
 
-### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunakcse25-star&theme=radical&column=7&margin-w=12&margin-h=12&no-frame=true" alt="GitHub trophies"/>
-</div>
 
 ### 📈 Contribution Graph
 
@@ -263,7 +259,7 @@ Cybersecurity           ██████░░░░░░░░░░░   Ka
 
 ### 💡 Favourite Quote
 
-> **"The future belongs to those who build it."**
+> **"Build something today that the world will depend on tomorrow."**
 
 ⭐ **If you like my work, consider giving my repositories a star!**
 
