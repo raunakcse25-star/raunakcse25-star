@@ -143,11 +143,7 @@ mindmap
 
 </div>
 
-<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/raunak_sahnii?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode stats" width="85%"/>
-
-</div>
 
 ### 📈 Current Learning
 
