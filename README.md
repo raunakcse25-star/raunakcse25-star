@@ -266,6 +266,6 @@ Cybersecurity           ██████░░░░░░░░░░░   Ka
 ```js
 // ══════════════════════════════════════════════════════════════
 //  END OF FILE : Raunak Kumar
-//  © raunakcse25-star  ·  In a world of algorithms, be the one who creates solutions.
+//  © raunakcse25-star  ·  Intelligence is not knowing everything; it's knowing how to solve anything.
 // ══════════════════════════════════════════════════════════════
 ```
