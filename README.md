@@ -19,6 +19,9 @@
 <a href="mailto:raunakkumar3821@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://leetcode.com/u/raunak_sahnii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/user/raunakkuxu68/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://tryhackme.com/p/raunaksahni7286"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="https://www.hackerrank.com/profile/raunaksahni7286"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+<a href="https://labex.io/u/raunak-sahni-00406446"><img src="https://img.shields.io/badge/LabEx-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="LabEx"/></a>
 <a href="https://www.instagram.com/raunak_sahnii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
@@ -131,14 +134,12 @@ mindmap
 |:---:|---|:---:|
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | DSA problem-solving and interview prep | [**raunak_sahnii**](https://leetcode.com/u/raunak_sahnii/) |
 | <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/> | Core CS concepts and DSA practice | [**@raunakkuxu68**](https://www.geeksforgeeks.org/user/raunakkuxu68/) |
-| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/> | Guided cybersecurity rooms and learning paths | [Profile](https://tryhackme.com/) |
-| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/> | Coding challenges and skill certifications | [Profile](https://www.hackerrank.com/) |
-| <img src="https://img.shields.io/badge/LabEx-7C3AED?style=flat-square&logo=linux&logoColor=white"/> | Hands-on interactive Linux and DevOps labs | [Profile](https://labex.io/) |
+| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/> | Guided cybersecurity rooms and learning paths | [**raunaksahni7286**](https://tryhackme.com/p/raunaksahni7286) |
+| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/> | Coding challenges and skill certifications | [**@raunaksahni7286**](https://www.hackerrank.com/profile/raunaksahni7286) |
+| <img src="https://img.shields.io/badge/LabEx-7C3AED?style=flat-square&logo=linux&logoColor=white"/> | Hands-on interactive Linux and DevOps labs | [**raunak-sahni-00406446**](https://labex.io/u/raunak-sahni-00406446) |
 | <img src="https://img.shields.io/badge/Future_Hacker-0F172A?style=flat-square&logo=hackthebox&logoColor=22C55E"/> | Ethical-hacking journey and practice | Learning in progress |
 
 </div>
-
-<!-- TODO: replace the generic "Profile" links above with your own profile URLs for TryHackMe, HackerRank and LabEx. -->
 
 <div align="center">
 
@@ -249,6 +250,9 @@ Cybersecurity           ██████░░░░░░░░░░░   Ka
 | <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> | raunakkumar3821@gmail.com | [Mail](mailto:raunakkumar3821@gmail.com) |
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/> | raunak_sahnii | [Open](https://leetcode.com/u/raunak_sahnii/) |
 | <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/> | @raunakkuxu68 | [Open](https://www.geeksforgeeks.org/user/raunakkuxu68/) |
+| <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/> | raunaksahni7286 | [Open](https://tryhackme.com/p/raunaksahni7286) |
+| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/> | @raunaksahni7286 | [Open](https://www.hackerrank.com/profile/raunaksahni7286) |
+| <img src="https://img.shields.io/badge/LabEx-7C3AED?style=flat-square&logo=linux&logoColor=white"/> | raunak-sahni-00406446 | [Open](https://labex.io/u/raunak-sahni-00406446) |
 | <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> | raunak_sahnii | [Open](https://www.instagram.com/raunak_sahnii) |
 
 </div>
